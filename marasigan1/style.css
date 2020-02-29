@@ -1,0 +1,53 @@
+#button{
+position:absolute;
+border-radius: 5px;
+padding: 5px;
+width: 10%;
+top:10%;
+left:15%;
+background: url(images.jpg);
+color:white;
+}
+
+
+
+#d{
+position:absolute;
+background: url(images.jpg);
+top:5%;
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+color:white;
+}
+
+#b{
+position:absolute;
+top:10%;
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+background: url(images.jpg);
+color:white;
+}
+
+#o{
+position:absolute;
+top:15%;
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+background: url(images.jpg);
+color:white;
+}
+
+#h{
+position:absolute;
+top:20%;
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+background: url(images.jpg);
+color:white;
+}
+
